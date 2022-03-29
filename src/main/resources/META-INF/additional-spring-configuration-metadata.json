@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "value.lastname",
+      "type": "java.lang.String",
+      "description": "Description for value.lastname."
+    },
+    {
+      "name": "value.name",
+      "type": "java.lang.String",
+      "description": "Description for value.name."
+    },
+    {
+      "name": "value.random",
+      "type": "java.lang.String",
+      "description": "Description for value.random."
+    }
+  ] }
